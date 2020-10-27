@@ -7,8 +7,9 @@
 - 🎮 我还是资深游戏爱好者 ...
 - 💣 老二次元一枚 ...
 - 🎶 业余半吊子音乐人 ...
+- 🤪 个人博客 [冰茶冰室](https://amazing-noyce-b306f2.netlify.app/)
 
 ### 正在写的电子书
-- golong-leetcode 题解[leetcode-pass](https://icetea.gitbook.io/leetcode-pass/)
+- [leetcode-pass](https://icetea.gitbook.io/leetcode-pass/)
 
 <img src="https://github-profile-trophy.vercel.app/?username=polaris1119&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
