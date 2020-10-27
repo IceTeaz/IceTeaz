@@ -8,4 +8,7 @@
 - 💣 老二次元一枚 ...
 - 🎶 业余半吊子音乐人 ...
 
+### 正在写的电子书
+- golong-leetcode 题解[leetcode-pass](https://icetea.gitbook.io/leetcode-pass/)
+
 <img src="https://github-profile-trophy.vercel.app/?username=polaris1119&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
